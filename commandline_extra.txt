@@ -1,1 +1,4 @@
 Adding some useful reminders about command line shortcuts....
+
+cd ..  - use cd to be compatible with Linux
+ctrl + l for a clean slate
